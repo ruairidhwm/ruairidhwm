@@ -11,6 +11,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Securing an S3 bucket with Cloudfront and a Lambda](https://ruairidh.dev/secure-a-s3-bucket-with-cloudfront-and-lambda)
+- [Build your own AST](https://ruairidh.dev/build-your-own-ast)
+- [Build your own programming language](https://ruairidh.dev/build-your-own-programming-language)
+- [Build your own Mocks](https://ruairidh.dev/build-your-own-mocks)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
