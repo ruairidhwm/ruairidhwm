@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ruairidh</h1>
 <h3 align="center">A full stack software engineer from sunny Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿</h3>
 
-- 🔭 I’m currently working at [AskPorter](https://askporter.co)
+- 🔭 I’m currently working as a senior engineer at [AskPorter](https://askporter.co)
 
 - 📝 I regulary write articles on [https://ruairidh.dev](https://ruairidh.dev)
 
