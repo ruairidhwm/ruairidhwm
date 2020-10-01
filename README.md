@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react, graphql, typescript, node, state machines**
 
-- 📫 How to reach me **ruairidh@ruairidh.dev**
+- 📫 Contact me at **ruairidh@ruairidh.dev**
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
