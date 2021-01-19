@@ -11,10 +11,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Partial Application and Functional Programming in JavaScript](https://ruairidh.dev/partial-application-javascript)
 - [Generate automatic documentation with TypeScript](https://ruairidh.dev/typescript-api-extractor)
 - [An introduction to micro-frontends](https://ruairidh.dev/introduction-to-micro-frontends)
 - [Securing an S3 bucket with Cloudfront and a Lambda](https://ruairidh.dev/secure-a-s3-bucket-with-cloudfront-and-lambda)
-- [Build your own AST](https://ruairidh.dev/build-your-own-ast)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
