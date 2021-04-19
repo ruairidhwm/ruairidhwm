@@ -9,10 +9,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Console Log Tricks](https://ruairidh.dev/console-log-tricks)
 - [What is a functor in JavaScript?](https://ruairidh.dev/what-is-a-functor-javascript)
 - [Partial Application and Functional Programming in JavaScript](https://ruairidh.dev/partial-application-javascript)
 - [Generate automatic documentation with TypeScript](https://ruairidh.dev/typescript-api-extractor)
-- [An introduction to micro-frontends](https://ruairidh.dev/introduction-to-micro-frontends)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
