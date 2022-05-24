@@ -1,26 +1,31 @@
-<h1 align="center">Hi 👋, I'm Ruairidh</h1>
-<h3 align="center">A full stack software engineer from sunny Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿</h3>
+# Hi there 👋, My name is Ruairidh Wynne-McCorry
 
-- 🔭 I’m currently working as a senior engineer at [AskPorter](https://askporter.co)
+<img width="100%" src="https://github.com/ruairidhwm/ruairidhwm/blob/master/github-header-image.png" alt="my banner">
 
-- 📝 I regulary write articles on [https://ruairidh.dev](https://ruairidh.dev)
+A full stack software engineer from sunny Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
-- 📫 Contact me at **ruairidh@ruairidh.dev**
+🔭 I’m currently working as a senior engineer at AskPorter
 
-### Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Console Log Tricks](https://ruairidh.dev/console-log-tricks)
-- [What is a functor in JavaScript?](https://ruairidh.dev/what-is-a-functor-javascript)
-- [Partial Application and Functional Programming in JavaScript](https://ruairidh.dev/partial-application-javascript)
-- [Generate automatic documentation with TypeScript](https://ruairidh.dev/typescript-api-extractor)
-<!-- BLOG-POST-LIST:END -->
+## 💫 Liitle Bit More About Me
+<p>📫 How to reach me? ruairidh@ruairidh.dev</p>
+<p>All of my projects are available at <a href="">https://ruairidh.dev</a></p>
 
-<p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://dev.to/ruairidhwm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ruairidhwm" height="30" width="40" /></a>
-<a href="https://twitter.com/ruairidhwm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ruairidhwm" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ruairidhwynnemchardy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ruairidhwynnemchardy" height="30" width="40" /></a>
-<a href="https://ruairidh.dev/rss.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://ruairidh.dev/rss.xml" height="30" width="40" /></a>
+## 💻 Skills
+<p>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">
 </p>
 
+## 👉 Connect With Me
+<p>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ruairidhwynnemchardy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://twitter.com/ruairidhwm"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+</p>
 
