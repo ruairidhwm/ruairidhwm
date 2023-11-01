@@ -4,7 +4,7 @@
 
 A full stack software engineer from sunny Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
-🔭 I’m currently working as a senior engineer at [Feeld](https://feeld.co)
+🔭 I’m currently working as an engineering manager at [Feeld](https://feeld.co)
 
 ## 💫 Liitle Bit More About Me
 <p>📫 How to reach me? ruairidh@ruairidh.dev</p>
